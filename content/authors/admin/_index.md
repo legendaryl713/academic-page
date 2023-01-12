@@ -8,7 +8,7 @@ last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✈️
 
 # Is this the primary user of the site?
 superuser: true
@@ -45,18 +45,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/legendaryl713
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/junzhezhang1
+    link: https://www.linkedin.com/in/junzhezhang1/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -71,5 +65,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Junzhe is an undergraduate student at Tandon School of Engineering, New York University, majoring in Mathematics and Computer Science. His research interests include Computer Vision, Information Security, Robotic-assisted Surgery, etc. He is a member of the contactless robotic team at Flexible AI-enabled Mechatronic Systems Lab, currently working on depth perception of lung tumor in vision-enabled robotic surgeries.
 {style="text-align: justify;"}
