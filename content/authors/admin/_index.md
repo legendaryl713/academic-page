@@ -8,13 +8,13 @@ last_name: Zhang
 
 # Status emoji
 status:
-  icon: ✈️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student and Research Assistant 
+role: Graduate Student and Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,5 +65,5 @@ email: ''
 highlight_name: true
 ---
 
-Junzhe is an undergraduate student at Tandon School of Engineering, New York University, majoring in Mathematics and Computer Science. His research interests include Computer Vision, Information Security, Robotic-assisted Surgery, etc. He is a member of the contactless robotic team at Flexible AI-enabled Mechatronic Systems Lab, currently working on depth perception of lung tumor in vision-enabled robotic surgeries.
+I am a graduate student at New York University's Tandon School of Engineering, pursuing a Master of Science in Computer Science. I also hold a Bachelor of Science from NYU, with majors in Mathematics and Computer Science. My research interests span Computer Vision, Information Security, and Robotic-assisted Surgery. At the Flexible AI-enabled Mechatronic Systems Lab, I am part of the contactless robotic team, working on enhancing depth perception for lung tumor detection in vision-enabled robotic surgeries. I am passionate about applying machine learning to solve real-world problems. 
 {style="text-align: justify;"}
